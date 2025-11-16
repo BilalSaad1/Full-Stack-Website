@@ -1,0 +1,33 @@
+{
+  "name": "se3316lab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "proxy": "http://localhost:3000",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bsaad2/se3316-bsaad2-lab3.git"
+  },
+  "author": "Bilal Saad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bsaad2/se3316-bsaad2-lab3/issues"
+  },
+  "homepage": "https://github.com/Bsaad2/se3316-bsaad2-lab3#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "joi": "^17.11.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.0.2",
+    "nodemon": "^3.0.2",
+    "path": "^0.12.7"
+  }
+}
